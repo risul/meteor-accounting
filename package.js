@@ -1,6 +1,6 @@
 Package.describe({
     name: 'risul:accounting',
-    summary: 'Meteor package for Accounting.js - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies',
+    summary: 'Meteor package for Accounting.js - http://openexchangerates.github.io/accounting.js/',
     version: '1.0.0',
     git: 'https://github.com/risul/meteor-accounting'
 });
