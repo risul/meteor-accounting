@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:accounting',
     summary: 'Meteor package for Accounting.js - http://openexchangerates.github.io/accounting.js/',
-    version: '1.0.0',
+    version: '1.0.1',
     git: 'https://github.com/risul/meteor-accounting'
 });
 
